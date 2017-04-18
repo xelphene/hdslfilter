@@ -115,6 +115,11 @@ print sieve.match(data)
 python setup.py install
 ```
 
+# See Also
+
+An additional implementation of this syntax was written by Steve McMaster
+and is available at https://github.com/HurricaneLabs/filtration.
+
 # Copyright and License
 
 Copyright (C) 2016 Hurricane Labs
